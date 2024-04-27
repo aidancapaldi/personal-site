@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Little Women',
+    title: 'If/Then',
     subtitle: 'NUStage Spring 2022',
     image: '/images/theater/ifthen.jpg',
     date: '2023-4-01',
@@ -25,7 +25,7 @@ const data = [
       'Played Mr. Laurence in a musical of Little Women and understudied Professor Bhaer.',
   },
   {
-    title: 'Into The Woods',
+    title: 'Into The Woods: Wolf',
     subtitle: 'NUStage Fall 2021',
     image: '/images/theater/wolf2.jpg',
     date: '2021-12-01',
@@ -33,7 +33,7 @@ const data = [
       'Played the Wolf in Stephen Sondheim\'s Into The Woods.',
   },
   {
-    title: 'Into The Woods',
+    title: 'Into The Woods: Prince',
     subtitle: 'NUStage Fall 2021',
     image: '/images/theater/prince2.jpg',
     date: '2021-12-01',

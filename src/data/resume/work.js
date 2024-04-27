@@ -31,7 +31,7 @@ const work = [
     position: 'Computer Technician',
     url: 'https://www.ebay.com/str/proearthtech',
     startDate: '2019-07-01',
-    endDateLL: '2020-09-01',
+    endDate: '2020-09-01',
     summary: 'f',
     highlights: [
       'Repaired all models of laptops by hand, including HP, Dell, Lenovo, Acer, Asus and more.',
