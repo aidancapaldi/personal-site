@@ -1,47 +1,44 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'MIPS Processor',
+    subtitle: 'CS 2322 Trials',
+    image: '/images/projects/circuit.jpg',
+    date: '2022-05-10',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Designed and implemented a single-cycle MIPS processor in its entirety as a final project for EECE 2322. Completed and testbenched in Verilog.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Dedicated Game Server',
+    subtitle: 'RGL Amateur Season 8',
+    image: '/images/projects/soldier.jpg',
+    date: '2022-08-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Scripted and hosted a dedicated game server entirely from Linux command line for my E-Sports team. Learned to implement plugins, Discord bots, and anti-cheat software.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Custom malloc() Implementation',
+    subtitle: 'CS 3650 Trials',
+    image: '/images/projects/malloc.jpg',
+    date: '2022-01-10',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Designed and implemented malloc() function in Computer Systems class to be faster than system malloc(). This was done in C, and I was marginally faster.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Non-relational Database and Website',
+    subtitle: 'DB Design',
+    image: '/images/projects/database.jpg',
+    date: '2021-12-10',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Designed and implemented a SQL database as a part of Database Design. Later used a MongoDB database with a Node frontend.',
+  },
+  {
+    title: 'Bridg-It Java Game',
+    subtitle: 'Fundamentals of OOP',
+    image: '/images/projects/switches.jpg',
+    date: '2021-03-10',
+    desc:
+      'Created a Java game which derives from Claude Shannon\'s Switching Game for Fundamentals of CS II. Required heavy partner OOP programming and unit testing.',
   },
 ];
 
