@@ -8,7 +8,7 @@ const data = [
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/aidancapaldi/personal-site/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
@@ -17,7 +17,7 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2150',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    link: 'https://github.com/aidancapaldi/personal-site/graphs/contributors',
   },
 ];
 
