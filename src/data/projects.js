@@ -1,8 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'VR Presentation Application',
+    subtitle: 'enabling',
+    image: '/images/projects/vrapp.jpg',
+    date: '2023-12-03',
+    desc:
+      'Designed and implemented a novel presentation practice environment in Unity which targets the Meta Quest 2 Virtual Reality Headset',
+  },
+  {
+    title: 'NES "Bomberman" Game Clone',
+    subtitle: 'CS4530',
+    image: '/images/projects/bomberman.jpg',
+    date: '2023-11-29',
+    desc:
+      'Implemented the classic game “Bomberman” into a large existing codebase (Covy.Town) using React and TypeScript, hosted new app feature on Render.io.',
+  },
+  {
+    title: '5-Stage Pipelined ARM Processor',
+    subtitle: 'Summer ECE',
+    image: '/images/projects/ARM CPU5.png',
+    date: '2023-06-20',
+    desc: 'Designed and implemented a multistage processor for the ARM instruction set using Verilog which supports 64-bit instructions and branching.',
+  },
+  {
+    title: '"Hare of Ruin" Video Game',
+    subtitle: 'GameProgramming',
+    image: '/images/projects/hare.png',
+    date: '2023-04-20',
+    desc: 'Story-boarded, designed, and built a video game in Unity / C#. A rabbit goes on a quest to save his kidnapped mentor in a 3-level top-down adventure!',
+  },
+  {
     title: 'MIPS Processor',
-    subtitle: 'CS 2322 Trials',
+    subtitle: 'EECE 2322 Trials',
     image: '/images/projects/circuit.jpg',
     date: '2022-05-10',
     desc:
