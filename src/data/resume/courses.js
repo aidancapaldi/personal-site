@@ -1,5 +1,35 @@
 const courses = [
   {
+    title: 'Game Programming',
+    number: 'CS 3540',
+    link: 'https://catalog.northeastern.edu/search/?search=CS+3540',
+    university: 'Northeastern',
+  },
+  {
+    title: 'Computer Systems',
+    number: 'CS 3650',
+    link: 'https://catalog.northeastern.edu/search/?search=CS+3650',
+    university: 'Northeastern',
+  },
+  {
+    title: 'Object-Oriented Design',
+    number: 'CS 3500',
+    link: 'https://catalog.northeastern.edu/search/?search=CS+3500',
+    university: 'Northeastern',
+  },
+  {
+    title: 'Fundamentals of Software Engineering',
+    number: 'CS 4530',
+    link: 'https://catalog.northeastern.edu/search/?search=CS+4530',
+    university: 'Northeastern',
+  },
+  {
+    title: 'Logic and Computation',
+    number: 'CS 2800',
+    link: 'https://catalog.northeastern.edu/search/?search=CS+2800',
+    university: 'Northeastern',
+  },
+  {
     title: 'Algorithms and Data',
     number: 'CS 3000',
     link: 'https://catalog.northeastern.edu/search/?P=CS%203000',
@@ -18,12 +48,6 @@ const courses = [
     university: 'Northeastern',
   },
   {
-    title: 'Fundamentals of Computer Science 2',
-    number: 'CS 2510',
-    link: 'https://catalog.northeastern.edu/search/?search=CS+2510',
-    university: 'Northeastern',
-  },
-  {
     title: 'Database Design',
     number: 'CS 3200',
     link: 'https://catalog.northeastern.edu/search/?search=CS+3200',
@@ -36,9 +60,9 @@ const courses = [
     university: 'Northeastern',
   },
   {
-    title: 'Cornerstone of Engineering 2',
-    number: 'GE 1502',
-    link: 'https://catalog.northeastern.edu/search/?search=GE+1502',
+    title: 'Electrical and Computer Engineering Capstone',
+    number: 'EECE 4792',
+    link: 'https://catalog.northeastern.edu/search/?search=EECE+4792',
     university: 'Northeastern',
   },
   {
@@ -54,9 +78,21 @@ const courses = [
     university: 'Northeastern',
   },
   {
+    title: 'Fundamentals of Electromagnetics',
+    number: 'EECE 2530',
+    link: 'https://catalog.northeastern.edu/search/?search=EECE+2530',
+    university: 'Northeastern',
+  },
+  {
     title: 'Calculus 3 for Engineering',
     number: 'MATH 2321',
     link: 'https://catalog.northeastern.edu/search/?search=MATH+2321',
+    university: 'Northeastern',
+  },
+  {
+    title: 'Computer Architecture and Organization',
+    number: 'EECE 3324',
+    link: 'https://catalog.northeastern.edu/search/?search=EECE+3324',
     university: 'Northeastern',
   },
   {

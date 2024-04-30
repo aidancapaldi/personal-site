@@ -16,7 +16,7 @@ const skills = [
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Languages'],
   },
   {
@@ -41,7 +41,7 @@ const skills = [
   },
   {
     title: 'Git',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
@@ -51,12 +51,12 @@ const skills = [
   },
   {
     title: 'Vivado Suite',
-    competency: 4,
+    competency: 5,
     category: ['Tools'],
   },
   {
     title: 'Typescript',
-    competency: 1,
+    competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -66,7 +66,7 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 3,
+    competency: 2,
     category: ['Languages', 'Python'],
   },
   {
@@ -76,12 +76,12 @@ const skills = [
   },
   {
     title: 'C',
-    competency: 5,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'C#',
-    competency: 4,
+    competency: 5,
     category: ['Languages'],
   },
   {
@@ -96,12 +96,12 @@ const skills = [
   },
   {
     title: 'Verilog',
-    competency: 3,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'SystemVerilog',
-    competency: 3,
+    competency: 4,
     category: ['Languages'],
   },
   {
